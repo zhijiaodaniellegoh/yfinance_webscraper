@@ -1,3 +1,5 @@
 # yfinance_webscraper
-## Scrape Data from Yahoo Finance
-This is to scrape the market cap of various companies.
+
+This is to scrape the market cap of various companies from yahoo finance. 
+
+List of ticker symbols in txt
