@@ -1,0 +1,104 @@
+{
+    "records": [
+        {
+            "id": "rec05fgzSNEGdMhwF",
+            "createdTime": "2022-04-21T00:47:25.000Z",
+            "fields": {
+                "company_valuation": "USD 241.0 B",
+                "_ticker_symbol TEST": "NYSE: BABA, 9988.HK",
+                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was last updated on April 23, 2022 18:02:12.\"",
+                "english_name": "Alibaba"
+            }
+        },
+        {
+            "id": "rec4v4pak6JuQxNfd",
+            "createdTime": "2022-04-21T00:47:25.000Z",
+            "fields": {
+                "company_valuation": "USD 141.5 B",
+                "_ticker_symbol TEST": "601988.SS, 3988.HK",
+                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 23, 2022 18:02:13.\"",
+                "english_name": "Bank of China"
+            }
+        },
+        {
+            "id": "recFTu4dRipevsOoC",
+            "createdTime": "2022-04-21T00:42:07.000Z",
+            "fields": {
+                "company_valuation": "USD 165.7 B",
+                "_ticker_symbol TEST": "601288.SS, 1288.HK",
+                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 23, 2022 18:02:14.\"",
+                "english_name": "Agricultural Bank of China"
+            }
+        },
+        {
+            "id": "recJuLmqWnyo2iVTi",
+            "createdTime": "2022-04-21T00:47:25.000Z",
+            "fields": {
+                "company_valuation": "USD 4.4 B",
+                "_ticker_symbol TEST": "600733.SS",
+                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 23, 2022 18:02:16.\"",
+                "english_name": "BAIC BluePark New Energy"
+            }
+        },
+        {
+            "id": "recOa8WHSX7uDQe8R",
+            "createdTime": "2022-04-21T00:47:25.000Z",
+            "fields": {
+                "company_valuation": "USD 32.1 B",
+                "_ticker_symbol TEST": "2020.HK",
+                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 23, 2022 18:02:17.\"",
+                "english_name": "Anta Sports"
+            }
+        },
+        {
+            "id": "recTfPMIDA7Fj0e6S",
+            "createdTime": "2022-04-21T00:42:07.000Z",
+            "fields": {
+                "company_valuation": "USD 4.1 B",
+                "_ticker_symbol TEST": "NYSE: JOBS",
+                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was last updated on April 23, 2022 18:02:18.\"",
+                "english_name": "51job"
+            }
+        },
+        {
+            "id": "recmYpYtnepifcs8U",
+            "createdTime": "2022-04-21T00:47:25.000Z",
+            "fields": {
+                "company_valuation": "USD 4.2 B",
+                "_ticker_symbol TEST": "2357.HK",
+                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 23, 2022 18:02:19.\"",
+                "english_name": "AviChina"
+            }
+        },
+        {
+            "id": "recn1iU4eYc6R41A0",
+            "createdTime": "2022-04-21T00:47:25.000Z",
+            "fields": {
+                "company_valuation": "USD 46.3 B",
+                "_ticker_symbol TEST": "9888.HK",
+                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 23, 2022 18:02:20.\"",
+                "english_name": "Baidu "
+            }
+        },
+        {
+            "id": "recwAgAPYEgizJsXT",
+            "createdTime": "2022-04-21T00:47:25.000Z",
+            "fields": {
+                "company_valuation": "USD 56.0 B",
+                "_ticker_symbol TEST": "601328.SS, 3328.HK",
+                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 23, 2022 18:02:21.\"",
+                "english_name": "Bank of Communications"
+            }
+        },
+        {
+            "id": "recyqF6Er7vP9LJOv",
+            "createdTime": "2022-04-21T00:42:07.000Z",
+            "fields": {
+                "company_valuation": "USD 38.1 M",
+                "_ticker_symbol TEST": "NYSE: KRKR",
+                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was last updated on April 23, 2022 18:02:22.\"",
+                "english_name": "36Kr Holdings"
+            }
+        }
+    ]
+}
