@@ -1,0 +1,85 @@
+{
+    "records": [
+        {
+            "id": "recjcCs6TGI2upnlb",
+            "fields": {
+                "english_name": "Anta Sports",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 22:02:53.",
+                "company_valuation": "USD 32.3 B",
+                "_ticker_symbol TEST": "2020.HK"
+            }
+        },
+        {
+            "id": "reck0CS8HVWqFsTcv",
+            "fields": {
+                "english_name": "Fantasia Holdings",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 20:56:49.",
+                "company_valuation": "USD 146.7 M",
+                "_ticker_symbol TEST": "1777.HK"
+            }
+        },
+        {
+            "id": "recoQp905luYwwlqf",
+            "fields": {
+                "english_name": "China Construction Bank",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 20:56:36.",
+                "company_valuation": "USD 188.8 B",
+                "_ticker_symbol TEST": "601939.SS, 0939.HK"
+            }
+        },
+        {
+            "id": "recpl39M6iuYhbteU",
+            "fields": {
+                "english_name": "GigaDevice ",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 19, 2022 20:56:56.",
+                "company_valuation": "USD 14.6 B",
+                "_ticker_symbol TEST": "603986.SS"
+            }
+        },
+        {
+            "id": "recs4Sr0Vmbp04H1Y",
+            "fields": {
+                "english_name": "China Life Insurance",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on April 19, 2022 20:56:41.",
+                "company_valuation": "USD 99.7 B",
+                "_ticker_symbol TEST": "NYSE: LFC, 601628.SS, 2628.HK "
+            }
+        },
+        {
+            "id": "recsG61HPFPkaZEXn",
+            "fields": {
+                "english_name": "China Tourism Group Duty Free",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 19, 2022 20:56:47.",
+                "company_valuation": "USD 55.2 B",
+                "_ticker_symbol TEST": "601888.SS"
+            }
+        },
+        {
+            "id": "recsflJl2IC9MzV8V",
+            "fields": {
+                "english_name": "China Railway Construction Corporation",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 20:56:43.",
+                "company_valuation": "USD 16.4 B",
+                "_ticker_symbol TEST": "601186.SS, 1186.HK"
+            }
+        },
+        {
+            "id": "rectNsZGSzlEzpGNr",
+            "fields": {
+                "english_name": "Li-Ning",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 20:03:27.",
+                "company_valuation": "USD 21.3 B",
+                "_ticker_symbol TEST": "2331.HK"
+            }
+        },
+        {
+            "id": "recuTiBJnl7FoeWKn",
+            "fields": {
+                "english_name": "Haier",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 20:57:00.",
+                "company_valuation": "USD 35.0 B",
+                "_ticker_symbol TEST": "6690.HK, 600690.SS, 690D.DE"
+            }
+        }
+    ]
+}

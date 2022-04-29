@@ -1,103 +1,533 @@
 {
     "records": [
         {
-            "id": "rec05fgzSNEGdMhwF",
-            "createdTime": "2022-04-21T00:47:25.000Z",
+            "id": "rec0Rncc9AL3oFwax",
+            "createdTime": "2022-04-25T00:12:38.000Z",
             "fields": {
-                "company_valuation": "USD 241.0 B",
-                "_ticker_symbol TEST": "NYSE: BABA, 9988.HK",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was last updated on April 23, 2022 18:02:12.\"",
-                "english_name": "Alibaba"
+                "english_name": "Bank of Communications",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 22:02:58.",
+                "company_valuation": "USD 57.1 B",
+                "_ticker_symbol TEST": "601328.SS, 3328.HK"
             }
         },
         {
-            "id": "rec4v4pak6JuQxNfd",
-            "createdTime": "2022-04-21T00:47:25.000Z",
+            "id": "rec37bPp1UizTKj1J",
+            "createdTime": "2022-04-25T00:12:38.000Z",
             "fields": {
-                "company_valuation": "USD 141.5 B",
-                "_ticker_symbol TEST": "601988.SS, 3988.HK",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 23, 2022 18:02:13.\"",
-                "english_name": "Bank of China"
+                "english_name": "EVE",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 19, 2022 21:28:35.",
+                "company_valuation": "USD 21.8 B",
+                "_ticker_symbol TEST": "300014.SZ"
             }
         },
         {
-            "id": "recFTu4dRipevsOoC",
-            "createdTime": "2022-04-21T00:42:07.000Z",
+            "id": "rec3ILxYFhcKtth7t",
+            "createdTime": "2022-04-25T00:12:37.000Z",
             "fields": {
-                "company_valuation": "USD 165.7 B",
-                "_ticker_symbol TEST": "601288.SS, 1288.HK",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 23, 2022 18:02:14.\"",
-                "english_name": "Agricultural Bank of China"
+                "english_name": "36Kr Holdings",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on April 19, 2022 22:02:43.",
+                "company_valuation": "USD 38.6 M",
+                "_ticker_symbol TEST": "NYSE: KRKR"
             }
         },
         {
-            "id": "recJuLmqWnyo2iVTi",
-            "createdTime": "2022-04-21T00:47:25.000Z",
+            "id": "rec3UwGcim9RWZRcz",
+            "createdTime": "2022-04-25T00:12:38.000Z",
             "fields": {
-                "company_valuation": "USD 4.4 B",
-                "_ticker_symbol TEST": "600733.SS",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 23, 2022 18:02:16.\"",
-                "english_name": "BAIC BluePark New Energy"
+                "english_name": "Bank of China",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 22:02:56.",
+                "company_valuation": "USD 141.6 B",
+                "_ticker_symbol TEST": "601988.SS, 3988.HK"
             }
         },
         {
-            "id": "recOa8WHSX7uDQe8R",
-            "createdTime": "2022-04-21T00:47:25.000Z",
+            "id": "rec4BfBinCGWbJZw5",
+            "createdTime": "2022-04-25T00:12:38.000Z",
             "fields": {
-                "company_valuation": "USD 32.1 B",
-                "_ticker_symbol TEST": "2020.HK",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 23, 2022 18:02:17.\"",
-                "english_name": "Anta Sports"
+                "english_name": "JD.com",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on April 19, 2022 22:02:51.",
+                "company_valuation": "USD 90.1 B",
+                "_ticker_symbol TEST": "NYSE: JD, 9618.HK"
             }
         },
         {
-            "id": "recTfPMIDA7Fj0e6S",
-            "createdTime": "2022-04-21T00:42:07.000Z",
+            "id": "rec5DWWZ8FpPuYux2",
+            "createdTime": "2022-04-25T00:12:38.000Z",
             "fields": {
+                "english_name": "JD Health",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 20:57:07.",
+                "company_valuation": "USD 20.9 B",
+                "_ticker_symbol TEST": "6618.HK"
+            }
+        },
+        {
+            "id": "rec5TJeLaeq2EICeE",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "GAC Group",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 18, 2022 08:45:32.",
+                "company_valuation": "USD 15.9 B",
+                "_ticker_symbol TEST": "601238.SH, 2238.HK"
+            }
+        },
+        {
+            "id": "rec633ShNgCRST1DL",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "51job",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on April 19, 2022 22:02:44.",
                 "company_valuation": "USD 4.1 B",
-                "_ticker_symbol TEST": "NYSE: JOBS",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was last updated on April 23, 2022 18:02:18.\"",
-                "english_name": "51job"
+                "_ticker_symbol TEST": "NYSE: JOBS"
             }
         },
         {
-            "id": "recmYpYtnepifcs8U",
-            "createdTime": "2022-04-21T00:47:25.000Z",
+            "id": "rec6CybJNu0blh16Y",
+            "createdTime": "2022-04-25T00:12:38.000Z",
             "fields": {
-                "company_valuation": "USD 4.2 B",
-                "_ticker_symbol TEST": "2357.HK",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 23, 2022 18:02:19.\"",
-                "english_name": "AviChina"
+                "english_name": "BYD",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 22:02:48.",
+                "company_valuation": "USD 89.1 B",
+                "_ticker_symbol TEST": "002594.SZ, 1211.HK"
             }
         },
         {
-            "id": "recn1iU4eYc6R41A0",
-            "createdTime": "2022-04-21T00:47:25.000Z",
+            "id": "recA0OgkUn7Wra9MN",
+            "createdTime": "2022-04-25T00:12:38.000Z",
             "fields": {
-                "company_valuation": "USD 46.3 B",
-                "_ticker_symbol TEST": "9888.HK",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 23, 2022 18:02:20.\"",
-                "english_name": "Baidu "
+                "english_name": "China Railway Group (CREC)",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 18, 2022 08:45:25.",
+                "company_valuation": "USD 25.0 B",
+                "_ticker_symbol TEST": "601390.SS, 0390.HK"
             }
         },
         {
-            "id": "recwAgAPYEgizJsXT",
-            "createdTime": "2022-04-21T00:47:25.000Z",
+            "id": "recAghiUWXT3HSbr3",
+            "createdTime": "2022-04-25T00:12:38.000Z",
             "fields": {
-                "company_valuation": "USD 56.0 B",
-                "_ticker_symbol TEST": "601328.SS, 3328.HK",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 23, 2022 18:02:21.\"",
-                "english_name": "Bank of Communications"
+                "english_name": "China Development Bank International Investment",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 22:02:50.",
+                "company_valuation": "USD 44.5 M",
+                "_ticker_symbol TEST": "1062.HK"
             }
         },
         {
-            "id": "recyqF6Er7vP9LJOv",
-            "createdTime": "2022-04-21T00:42:07.000Z",
+            "id": "recBXZdnq0GLSBPtO",
+            "createdTime": "2022-04-25T00:12:38.000Z",
             "fields": {
-                "company_valuation": "USD 38.1 M",
-                "_ticker_symbol TEST": "NYSE: KRKR",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was last updated on April 23, 2022 18:02:22.\"",
-                "english_name": "36Kr Holdings"
+                "english_name": "CASIL",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 22:02:49.",
+                "company_valuation": "USD 195.2 M",
+                "_ticker_symbol TEST": "0031.HK"
+            }
+        },
+        {
+            "id": "recCWCPmiUz681yki",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Geely Auto",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 20:56:54.",
+                "company_valuation": "USD 14.4 B",
+                "_ticker_symbol TEST": "0175.HK"
+            }
+        },
+        {
+            "id": "recCuNrR5yv6HeEpZ",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Gotion High-tech",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 19, 2022 20:56:57.",
+                "company_valuation": "USD 7.5 B",
+                "_ticker_symbol TEST": "002074.SZ"
+            }
+        },
+        {
+            "id": "recD2zeLVXyhvFnwS",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Baidu ",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 22:02:55.",
+                "company_valuation": "USD 46.4 B",
+                "_ticker_symbol TEST": "9888.HK"
+            }
+        },
+        {
+            "id": "recDaXdJ50pOKqt4x",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "CATL",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 19, 2022 22:03:00.",
+                "company_valuation": "USD 164.1 B",
+                "_ticker_symbol TEST": "300750.SZ"
+            }
+        },
+        {
+            "id": "recGA4ZfY0tyMrNUE",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Hengrui Pharma",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 19, 2022 20:57:01.",
+                "company_valuation": "USD 33.8 B",
+                "_ticker_symbol TEST": "600276.SS"
+            }
+        },
+        {
+            "id": "recJeUEWc8TpuHZHR",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "GEM",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 19, 2022 20:56:55.",
+                "company_valuation": "USD 5.6 B",
+                "_ticker_symbol TEST": "002340.SZ"
+            }
+        },
+        {
+            "id": "recK27CuY5PgLOZdn",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Agricultural Bank of China",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 22:02:52.",
+                "company_valuation": "USD 165.9 B",
+                "_ticker_symbol TEST": "601288.SS, 1288.HK"
+            }
+        },
+        {
+            "id": "recNfMNWfizFEDfRZ",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Bilibili",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on April 19, 2022 22:02:59.",
+                "company_valuation": "USD 10.2 B",
+                "_ticker_symbol TEST": "NYSE: BILI, 09626.HK"
+            }
+        },
+        {
+            "id": "recPKxia3XaXQ2sEk",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "iQiyi",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on April 19, 2022 20:57:06.",
+                "company_valuation": "USD 3.5 B",
+                "_ticker_symbol TEST": "NYSE: IQ"
+            }
+        },
+        {
+            "id": "recQFtX3PKyr9J9GM",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Chang'an Automobile",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 19, 2022 22:03:01.",
+                "company_valuation": "USD 11.2 B",
+                "_ticker_symbol TEST": "000625.SZ"
+            }
+        },
+        {
+            "id": "recSKf71P4i1P782P",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Industrial and Commercial Bank of China",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 20:57:05.",
+                "company_valuation": "USD 255.1 B",
+                "_ticker_symbol TEST": "601398.SS, 1398.HK"
+            }
+        },
+        {
+            "id": "recTDkUISQagxoYfN",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Jinko Solar",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on April 19, 2022 20:03:21.",
+                "company_valuation": "USD 2.6 B",
+                "_ticker_symbol TEST": "NYSE: JKS, 688223.SS"
+            }
+        },
+        {
+            "id": "recUnBCJ3SCLLWbe8",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "AviChina",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 22:02:46.",
+                "company_valuation": "USD 4.1 B",
+                "_ticker_symbol TEST": "2357.HK"
+            }
+        },
+        {
+            "id": "recVVYv3zVdRuMmEk",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "BAIC BluePark New Energy",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 19, 2022 22:02:54.",
+                "company_valuation": "USD 4.8 B",
+                "_ticker_symbol TEST": "600733.SS"
+            }
+        },
+        {
+            "id": "recWX29f42QCqbFhr",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "China Eastern Airlines",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on April 19, 2022 20:56:39.",
+                "company_valuation": "USD 12.2 B",
+                "_ticker_symbol TEST": "NYSE: CEA, 600115.SS, 0670.HK"
+            }
+        },
+        {
+            "id": "recYE9kkvxgUvStn0",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Futu Holdings",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on April 19, 2022 20:56:51.",
+                "company_valuation": "USD 5.1 B",
+                "_ticker_symbol TEST": "NYSE: FUTU"
+            }
+        },
+        {
+            "id": "recZ2cr8YwZscHgJa",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Kuaishou",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 20:03:23.",
+                "company_valuation": "USD 34.6 B",
+                "_ticker_symbol TEST": "1024.HK"
+            }
+        },
+        {
+            "id": "recZRxXATP7ouEnY0",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "China International Capital Corporation",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 20:56:40.",
+                "company_valuation": "USD 23.8 B",
+                "_ticker_symbol TEST": "601995.SS, 3908.HK"
+            }
+        },
+        {
+            "id": "recZYVrg160S6NBCk",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Huaneng Power International",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on April 19, 2022 20:57:03.",
+                "company_valuation": "USD 6.8 B",
+                "_ticker_symbol TEST": "NYSE: HNP, 600011.SS, 0902.HK"
+            }
+        },
+        {
+            "id": "recasSA28xxOfo4dw",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "BeiGene",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on April 19, 2022 22:02:47.",
+                "company_valuation": "USD 19.4 B",
+                "_ticker_symbol TEST": "NYSE: BGNE"
+            }
+        },
+        {
+            "id": "recbHvMuj4cGpVPgi",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Huobi",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 20:57:04.",
+                "company_valuation": "USD 215.6 M",
+                "_ticker_symbol TEST": "1611.HK"
+            }
+        },
+        {
+            "id": "recbPeVNDOfmUcJVC",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "China Northern Rare Earth Group",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 19, 2022 20:56:42.",
+                "company_valuation": "USD 19.7 B",
+                "_ticker_symbol TEST": "600111.SS"
+            }
+        },
+        {
+            "id": "recbVxMjXIFXD6l3W",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Great Wall Motors",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 20:56:58.",
+                "company_valuation": "USD 29.4 B",
+                "_ticker_symbol TEST": "2333.HK, 601633.SS"
+            }
+        },
+        {
+            "id": "receKj8kMue5YJb0v",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "China Southern Airlines",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on April 19, 2022 20:56:45.",
+                "company_valuation": "USD 16.2 B",
+                "_ticker_symbol TEST": "NYSE: ZNH, 600029.SS, 1055.HK"
+            }
+        },
+        {
+            "id": "recfFg4QhkMj46Ysa",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Kingsoft Cloud Holdings",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on April 19, 2022 20:03:22.",
+                "company_valuation": "USD 1.1 B",
+                "_ticker_symbol TEST": "NYSE:KC"
+            }
+        },
+        {
+            "id": "recfRLPb9ES276d4U",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Alibaba",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on April 19, 2022 22:02:45.",
+                "company_valuation": "USD 262.0 B",
+                "_ticker_symbol TEST": "NYSE: BABA, 9988.HK"
+            }
+        },
+        {
+            "id": "rech5bA710hJSD1sn",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Lens Technology",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 19, 2022 20:03:26.",
+                "company_valuation": "USD 8.4 B",
+                "_ticker_symbol TEST": "300433.SZ"
+            }
+        },
+        {
+            "id": "reci7r9gQX49hLYAK",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Fosun Pharma",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 20:56:50.",
+                "company_valuation": "USD 17.1 B",
+                "_ticker_symbol TEST": "600196.SS, 2196.HK"
+            }
+        },
+        {
+            "id": "recjcCs6TGI2upnlb",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Anta Sports",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 22:02:53.",
+                "company_valuation": "USD 32.3 B",
+                "_ticker_symbol TEST": "2020.HK"
+            }
+        },
+        {
+            "id": "reck0CS8HVWqFsTcv",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Fantasia Holdings",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 20:56:49.",
+                "company_valuation": "USD 146.7 M",
+                "_ticker_symbol TEST": "1777.HK"
+            }
+        },
+        {
+            "id": "recoQp905luYwwlqf",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "China Construction Bank",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 20:56:36.",
+                "company_valuation": "USD 188.8 B",
+                "_ticker_symbol TEST": "601939.SS, 0939.HK"
+            }
+        },
+        {
+            "id": "recpl39M6iuYhbteU",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "GigaDevice ",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 19, 2022 20:56:56.",
+                "company_valuation": "USD 14.6 B",
+                "_ticker_symbol TEST": "603986.SS"
+            }
+        },
+        {
+            "id": "recs4Sr0Vmbp04H1Y",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "China Life Insurance",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on April 19, 2022 20:56:41.",
+                "company_valuation": "USD 99.7 B",
+                "_ticker_symbol TEST": "NYSE: LFC, 601628.SS, 2628.HK "
+            }
+        },
+        {
+            "id": "recsG61HPFPkaZEXn",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "China Tourism Group Duty Free",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 19, 2022 20:56:47.",
+                "company_valuation": "USD 55.2 B",
+                "_ticker_symbol TEST": "601888.SS"
+            }
+        },
+        {
+            "id": "recsflJl2IC9MzV8V",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "China Railway Construction Corporation",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 20:56:43.",
+                "company_valuation": "USD 16.4 B",
+                "_ticker_symbol TEST": "601186.SS, 1186.HK"
+            }
+        },
+        {
+            "id": "rectNsZGSzlEzpGNr",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Li-Ning",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 20:03:27.",
+                "company_valuation": "USD 21.3 B",
+                "_ticker_symbol TEST": "2331.HK"
+            }
+        },
+        {
+            "id": "recuTiBJnl7FoeWKn",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Haier",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 20:57:00.",
+                "company_valuation": "USD 35.0 B",
+                "_ticker_symbol TEST": "6690.HK, 600690.SS, 690D.DE"
+            }
+        },
+        {
+            "id": "recub74foB63a8M3y",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "JD Logistics",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 20:03:19.",
+                "company_valuation": "USD 14.9 B",
+                "_ticker_symbol TEST": "2618.HK"
+            }
+        },
+        {
+            "id": "recv1v6ScNodiVIg2",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Ganfeng Lithium",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 20:56:53.",
+                "company_valuation": "USD 24.9 B",
+                "_ticker_symbol TEST": "002460.SZ, 1772.HK"
+            }
+        },
+        {
+            "id": "recxHP49y7twKx5nO",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Gree",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 19, 2022 20:03:10.",
+                "company_valuation": "USD 30.1 B",
+                "_ticker_symbol TEST": "000651.SZ"
+            }
+        },
+        {
+            "id": "recy3QzYJPt3WxKfD",
+            "createdTime": "2022-04-25T00:12:38.000Z",
+            "fields": {
+                "english_name": "Lenovo",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on April 19, 2022 20:03:25.",
+                "company_valuation": "USD 11.9 B",
+                "_ticker_symbol TEST": "NYSE: LNVGY, 0992.HK"
             }
         }
     ]
