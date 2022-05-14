@@ -1,84 +1,66 @@
 {
     "records": [
         {
-            "id": "rec0Rncc9AL3oFwax",
+            "id": "rec0I8kEUIdvv8fmw",
             "fields": {
-                "english_name": "Bank of Communications",
-                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 19, 2022 22:02:58.",
-                "company_valuation": "USD 57.1 B",
-                "_ticker_symbol TEST": "601328.SS, 3328.HK"
+                "company_valuation": "USD 11.7 B",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from May 14, 2022 17:21:38."
             }
         },
         {
-            "id": "rec37bPp1UizTKj1J",
+            "id": "rec1e9MRGLH7f6oV2",
             "fields": {
-                "english_name": "EVE",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 25, 2022 01:25:46.\"",
-                "company_valuation": "USD 21.4 B",
-                "_ticker_symbol TEST": "300014.SZ"
+                "company_valuation": "USD 32.6 B",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from May 14, 2022 17:21:40."
             }
         },
         {
-            "id": "rec3ILxYFhcKtth7t",
+            "id": "rec1h8oLqtH5wva9j",
             "fields": {
-                "english_name": "36Kr Holdings",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was last updated on April 25, 2022 01:25:47.\"",
-                "company_valuation": "USD 38.1 M",
-                "_ticker_symbol TEST": "NYSE: KRKR"
+                "company_valuation": "USD 6.7 B",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from May 14, 2022 17:21:40."
             }
         },
         {
-            "id": "rec3UwGcim9RWZRcz",
+            "id": "rec2aK02rbmUUhNP7",
             "fields": {
-                "english_name": "Bank of China",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 25, 2022 01:25:48.\"",
-                "company_valuation": "USD 141.5 B",
-                "_ticker_symbol TEST": "601988.SS, 3988.HK"
+                "company_valuation": "USD 65.6 M",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on May 14, 2022 17:21:41."
             }
         },
         {
-            "id": "rec4BfBinCGWbJZw5",
+            "id": "rec2cBT2kbhg3krij",
             "fields": {
-                "english_name": "JD.com",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was last updated on April 25, 2022 01:25:49.\"",
-                "company_valuation": "USD 82.9 B",
-                "_ticker_symbol TEST": "NYSE: JD, 9618.HK"
+                "company_valuation": "USD 38.6 B",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from May 14, 2022 17:21:42."
             }
         },
         {
-            "id": "rec5DWWZ8FpPuYux2",
+            "id": "rec3GrRxTI3XdnMvP",
             "fields": {
-                "english_name": "JD Health",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 25, 2022 01:25:51.\"",
-                "company_valuation": "USD 18.5 B",
-                "_ticker_symbol TEST": "6618.HK"
+                "company_valuation": "USD 2.4 B",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on May 14, 2022 17:21:43."
             }
         },
         {
-            "id": "rec5TJeLaeq2EICeE",
+            "id": "rec3XUKIOuvEVL6kA",
             "fields": {
-                "english_name": "GAC Group",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 25, 2022 01:25:52.\"",
-                "company_valuation": "USD 15.9 B",
-                "_ticker_symbol TEST": "601238.SH, 2238.HK"
+                "company_valuation": "USD 184.8 M",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from May 14, 2022 17:21:44."
             }
         },
         {
-            "id": "rec633ShNgCRST1DL",
+            "id": "rec3dErzkRVq2Brzw",
             "fields": {
-                "english_name": "51job",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was last updated on April 25, 2022 01:25:53.\"",
-                "company_valuation": "USD 4.1 B",
-                "_ticker_symbol TEST": "NYSE: JOBS"
+                "company_valuation": "USD 58.7 B",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from May 14, 2022 17:21:44."
             }
         },
         {
-            "id": "rec6CybJNu0blh16Y",
+            "id": "rec4ZPZHpBn3zsKkP",
             "fields": {
-                "english_name": "BYD",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 25, 2022 01:25:54.\"",
-                "company_valuation": "USD 85.9 B",
-                "_ticker_symbol TEST": "002594.SZ, 1211.HK"
+                "company_valuation": "USD 62.7 M",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on May 14, 2022 17:21:45."
             }
         }
     ]

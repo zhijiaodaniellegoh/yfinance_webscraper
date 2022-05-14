@@ -1,84 +1,17 @@
 {
     "records": [
         {
-            "id": "recAghiUWXT3HSbr3",
+            "id": "recmiNWsqeDfGm11H",
             "fields": {
-                "english_name": "China Development Bank International Investment",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 25, 2022 01:25:56.\"",
-                "company_valuation": "USD 42.2 M",
-                "_ticker_symbol TEST": "1062.HK"
+                "company_valuation": "USD 23.2 B",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on May 14, 2022 17:18:04."
             }
         },
         {
-            "id": "recBXZdnq0GLSBPtO",
+            "id": "recsGvvJgm0cMaWGt",
             "fields": {
-                "english_name": "CASIL",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 25, 2022 01:25:57.\"",
-                "company_valuation": "USD 188.6 M",
-                "_ticker_symbol TEST": "0031.HK"
-            }
-        },
-        {
-            "id": "recCWCPmiUz681yki",
-            "fields": {
-                "english_name": "Geely Auto",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 25, 2022 01:25:58.\"",
-                "company_valuation": "USD 15.1 B",
-                "_ticker_symbol TEST": "0175.HK"
-            }
-        },
-        {
-            "id": "recCuNrR5yv6HeEpZ",
-            "fields": {
-                "english_name": "Gotion High-tech",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 25, 2022 01:26:00.\"",
-                "company_valuation": "USD 7.4 B",
-                "_ticker_symbol TEST": "002074.SZ"
-            }
-        },
-        {
-            "id": "recD2zeLVXyhvFnwS",
-            "fields": {
-                "english_name": "Baidu ",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 25, 2022 01:26:00.\"",
-                "company_valuation": "USD 41.2 B",
-                "_ticker_symbol TEST": "9888.HK"
-            }
-        },
-        {
-            "id": "recDaXdJ50pOKqt4x",
-            "fields": {
-                "english_name": "CATL",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 25, 2022 01:26:01.\"",
-                "company_valuation": "USD 160.8 B",
-                "_ticker_symbol TEST": "300750.SZ"
-            }
-        },
-        {
-            "id": "recGA4ZfY0tyMrNUE",
-            "fields": {
-                "english_name": "Hengrui Pharma",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 25, 2022 01:26:02.\"",
-                "company_valuation": "USD 33.2 B",
-                "_ticker_symbol TEST": "600276.SS"
-            }
-        },
-        {
-            "id": "recJeUEWc8TpuHZHR",
-            "fields": {
-                "english_name": "GEM",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from April 25, 2022 01:26:04.\"",
-                "company_valuation": "USD 5.6 B",
-                "_ticker_symbol TEST": "002340.SZ"
-            }
-        },
-        {
-            "id": "recK27CuY5PgLOZdn",
-            "fields": {
-                "english_name": "Agricultural Bank of China",
-                "company_valuation_notes": "\"Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from April 25, 2022 01:26:05.\"",
-                "company_valuation": "USD 164.4 B",
-                "_ticker_symbol TEST": "601288.SS, 1288.HK"
+                "company_valuation": "USD 175.8 B",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from May 14, 2022 17:18:04."
             }
         }
     ]
