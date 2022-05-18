@@ -1,10 +1,45 @@
 {
     "records": [
         {
+            "id": "recy67hfzng0bGtld",
+            "fields": {
+                "company_valuation": "USD 163.1 M",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from May 17, 2022 19:31:01."
+            }
+        },
+        {
+            "id": "recyfo7y711agB62D",
+            "fields": {
+                "company_valuation": "USD 7.2 B",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from May 17, 2022 19:31:02."
+            }
+        },
+        {
+            "id": "recygufs3q2jAqTEA",
+            "fields": {
+                "company_valuation": "USD 128.7 B",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from May 17, 2022 19:31:03."
+            }
+        },
+        {
+            "id": "reczO6ECNAVXp6RBo",
+            "fields": {
+                "company_valuation": "USD 18.3 B",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from May 17, 2022 19:31:04."
+            }
+        },
+        {
+            "id": "reczc4lZLrr8dLVZp",
+            "fields": {
+                "company_valuation": "USD 4.4 B",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from May 17, 2022 19:31:04."
+            }
+        },
+        {
             "id": "reczi5maqDkicezYz",
             "fields": {
                 "company_valuation": "USD 20.6 B",
-                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on May 15, 2022 13:58:32."
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on May 17, 2022 19:31:05."
             }
         }
     ]
