@@ -7,5 +7,6 @@
 2. Added exchange rate API to convert company valuation in HKD & RMB to USD
 3. Customized company valuation & company valuation note and included currency conversion timestamp
 4. Handled edge cases when yfinance return an exception
-5. Created pagination capability to batch records to and from Airtable
-6. Get and patch request through Airtable REST API 
+5. Filtered needed data from get.json to patch only necessary columns
+6. Created pagination capability to batch records to and from Airtable
+7. Get and patch request through Airtable REST API 
