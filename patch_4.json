@@ -4,70 +4,70 @@
             "id": "recH66NrKqDFzj38z",
             "fields": {
                 "company_valuation": "USD 13.3 B",
-                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on May 26, 2022 16:49:11."
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on May 31, 2022 17:12:33."
             }
         },
         {
             "id": "recHU4fwpCRWUBA8o",
             "fields": {
                 "company_valuation": "USD 4.2 B",
-                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on May 26, 2022 16:49:12."
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on May 31, 2022 17:12:34."
             }
         },
         {
             "id": "recICCqgc2gns9DKe",
             "fields": {
                 "company_valuation": "USD 48.8 B",
-                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on May 26, 2022 16:49:12."
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on May 31, 2022 17:12:35."
             }
         },
         {
             "id": "recIz5r5RYDje3Yi0",
             "fields": {
                 "company_valuation": "USD 101.1 M",
-                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on May 26, 2022 16:49:13."
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on May 31, 2022 17:12:35."
+            }
+        },
+        {
+            "id": "recJ0Ae2LAhy6djfa",
+            "fields": {
+                "company_valuation": "USD 20.3 M",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on May 31, 2022 17:12:36."
             }
         },
         {
             "id": "recK4Bfa57su5HRJd",
             "fields": {
                 "company_valuation": "USD 234.4 B",
-                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from May 26, 2022 16:49:14."
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from May 31, 2022 17:12:37."
             }
         },
         {
             "id": "recK6LPPkch8g7N17",
             "fields": {
                 "company_valuation": "USD 228.1 M",
-                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from May 26, 2022 16:49:15."
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from May 31, 2022 17:12:38."
             }
         },
         {
             "id": "recKNW4uIcTL0lrik",
             "fields": {
-                "company_valuation": "USD 337.9 B",
-                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from May 26, 2022 16:49:16."
+                "company_valuation": "USD 338.9 B",
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from RMB using the exchange rate from May 31, 2022 17:12:39."
             }
         },
         {
             "id": "recLA55plUhk2Vyyc",
             "fields": {
                 "company_valuation": "USD 4.2 B",
-                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on May 26, 2022 16:49:16."
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was last updated on May 31, 2022 17:12:39."
             }
         },
         {
             "id": "recLa4D5z9lzx0jLh",
             "fields": {
                 "company_valuation": "USD 11.4 B",
-                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from May 26, 2022 16:49:17."
-            }
-        },
-        {
-            "id": "recNCad6HD4NcIaIA",
-            "fields": {
-                "company_valuation": "USD 52.2 B",
-                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from May 26, 2022 16:49:18."
+                "company_valuation_notes": "Valuation is reported as market capitalization. It was converted from HKD using the exchange rate from May 31, 2022 17:12:40."
             }
         }
     ]
